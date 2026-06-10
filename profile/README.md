@@ -2,7 +2,7 @@
 
 ### Payments built for your business.
 
-[![Stax System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.staxpayments.com%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=System%20Status&color=brightgreen&logo=statuspage&logoColor=white&cacheSeconds=300)](https://status.staxpayments.com)
+[![Stax System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.staxpayments.com%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=Stax%20Pay&color=brightgreen&logo=statuspage&logoColor=white&cacheSeconds=300)](https://status.staxpayments.com)
 
 Stax empowers software platforms, small businesses, and large businesses through simplified, industry-leading integrated payment and recurring billing solutions. This is the official open-source home for the **SDKs, client libraries, and sample apps** that help you build on Stax.
 
