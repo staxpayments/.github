@@ -4,7 +4,7 @@
 
 [![StaxPay System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.staxpayments.com%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=Stax%20Pay%20Status&color=b93be4&logo=statuspage&logoColor=white&cacheSeconds=300)](https://status.staxpayments.com)
 [![StaxBill System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fstatus.staxbill.com%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=StaxBill%20Status&color=b93be4&logo=statuspage&logoColor=white&cacheSeconds=300)](https://status.staxbill.com)
-[![StaxBill System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcardxstatus.statuspage.io%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=CardX%20Status&color=b93be4&logo=statuspage&logoColor=white&cacheSeconds=300)](https://cardxstatus.statuspage.io)
+[![CardX System Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcardxstatus.statuspage.io%2Fapi%2Fv2%2Fstatus.json&query=%24.status.description&label=CardX%20Status&color=b93be4&logo=statuspage&logoColor=white&cacheSeconds=300)](https://cardxstatus.statuspage.io)
 
 
 Stax empowers software platforms, small businesses, and large businesses through simplified, industry-leading integrated payment and recurring billing solutions. This is the official open-source home for the **SDKs, client libraries, and sample apps** that help you build on Stax.
